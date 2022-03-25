@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cz-alok [ALOK]
 - 👀 I’m interested in software development, competitive coding and hackathons.
-- 🌱 I’m recently learned Core JAVA.
+- 🌱 Recently, I learned Core Java.
 - 📫 Reach me at esbankalok@gmail.com
 -                    Have a nice day!!!
 
