@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @cz-alok [ALOK]
-- 👀 I’m interested in software development, competitive coding and hackathons.
-- 🌱 Recently, I learned Core Java.
+- 👀 I’m interested in software development, competitive coding and hackathons & also open to internships.
+- 🌱 Recently, I learned Core Java, SQL & AWT.
 - 📫 Reach me at esbankalok@gmail.com
--                    Have a nice day!!!
+-                         Have a nice day!!!
 
 ### Contact & Social Media
 <a href="https://www.facebook.com/cz.alok.a" target="_blank">![image](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)</a>
